@@ -2,12 +2,6 @@
 
 ###
 
-<br clear="both">
-
-<h2 align="left">Some coffee ?</h2>
-
-###
-
 <h2 align="left">About me</h2>
 
 ###
